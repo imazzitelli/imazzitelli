@@ -17,11 +17,9 @@
 
 ---
 
-### 🗺️ Example UMAP from single-cell RNA-seq analysis
 
 <img src="umap_scRNAseq_clusters.png" width="500"/>
 
-*Example UMAP showing immune cell populations from human lymphoid tissue analyzed in Seurat (B cells, T cells, NK cells, and more).*
 
 ---
 
