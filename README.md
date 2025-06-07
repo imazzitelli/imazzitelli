@@ -1,7 +1,3 @@
-<table>
-  <tr>
-    <td>
-
 # 👋 Hi, I'm Ignacio Mazzitelli
 
 🧬 I'm a medical doctor and researcher with a PhD in Immunology, currently working as a postdoctoral fellow in immunoinformatics.
@@ -19,12 +15,13 @@
 - AI-assisted biomedical discovery  
 - Multi-omics integration for biomarker identification  
 
-</td>
-<td>
-  <img src="umap_scRNAseq_clusters.png" width="320"/>
-</td>
-  </tr>
-</table>
+---
+
+### 🗺️ Example UMAP from single-cell RNA-seq analysis
+
+<img src="umap_scRNAseq_clusters.png" width="500"/>
+
+*Example UMAP showing immune cell populations from human lymphoid tissue analyzed in Seurat (B cells, T cells, NK cells, and more).*
 
 ---
 
