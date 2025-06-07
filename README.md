@@ -24,5 +24,5 @@
 📫 Feel free to reach out via [LinkedIn](www.linkedin.com/in/ignaciomazzitelli) if you'd like to collaborate or connect!
 
 ---
-
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9351--5799-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0001-9351-5799)
 🧪 *“Bridging biology and artificial intelligence through curiosity, critical thinking, and code.”*
